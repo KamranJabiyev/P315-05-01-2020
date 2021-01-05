@@ -1,0 +1,6 @@
+E:\P315\Tekrar\Tekrar\bin\Debug\Tekrar.exe.config
+E:\P315\Tekrar\Tekrar\bin\Debug\Tekrar.exe
+E:\P315\Tekrar\Tekrar\bin\Debug\Tekrar.pdb
+E:\P315\Tekrar\Tekrar\obj\Debug\Tekrar.csprojAssemblyReference.cache
+E:\P315\Tekrar\Tekrar\obj\Debug\Tekrar.exe
+E:\P315\Tekrar\Tekrar\obj\Debug\Tekrar.pdb
